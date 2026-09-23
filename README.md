@@ -27,12 +27,16 @@ git clone https://github.com/wanprabu/industry-x0.git
 * Use the data in `dataset/` for exercises
 * Refer to `slides` for further explanation
 
+Datasets were obtained from several sources, including:
+- https://supplychaindatahub.org/datasets/syndelay/
+- https://archive.ics.uci.edu/dataset/
+- https://github.com/jbrownlee/Datasets
+
 ## Other related repositories
 
 Here are some interesting repositories related to ML:
-* https://github.com/josephmisiti/awesome-machine-learning
-* https://github.com/lukasmasuch/best-of-ml-python
-* https://github.com/microsoft/ML-For-Beginners
+* https://github.com/wanprabu/machine-learning-or
+* https://github.com/wanprabu/quality-management-ml
 
 ## License
 This repository is licensed under the MIT. See the LICENSE file for details.
